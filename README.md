@@ -1,1 +1,1 @@
-# web-project
+# by-art-magazine
