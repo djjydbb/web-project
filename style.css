@@ -108,7 +108,7 @@ body {
 
 .navi-sub {
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 500;
     color: rgba(0,0,0,0.38);
     margin: 35px 0 70px;
     display: inline-block;
@@ -179,6 +179,8 @@ body {
 
 .content .container {
     float: left;
+/*    opacity: 0.01;*/
+    display: none;
 }
 
 .content .container {
@@ -223,11 +225,13 @@ body {
 .more {
     text-align: center;
     margin: 20px 0 40px;
+    display: none;
 }
 
 .footer {
     padding-top: 30px;
     border-top: 4px solid rgba(0,0,0,0.87);
+    display: none;
 }
 
 .footer .byartmagazine {
